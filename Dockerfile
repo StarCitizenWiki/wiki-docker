@@ -4,7 +4,7 @@ LABEL maintainer="foxftw@star-citizen.wiki"
 
 # Version
 ENV MEDIAWIKI_MAJOR_VERSION 1.39
-ENV MEDIAWIKI_VERSION 1.39.6
+ENV MEDIAWIKI_VERSION 1.39.7
 
 # System dependencies
 RUN set -eux; \
