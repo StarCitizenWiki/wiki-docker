@@ -19,7 +19,7 @@
                 "mediawiki/oauth": "1.39.0",
                 "mediawiki/pageviewinfo": "1.39.0",
                 "mediawiki/popups": "1.39.0",
-                "mediawiki/quickinstantcommons": "REL1_39",
+                "mediawiki/quickinstantcommons": "dev-REL1_39",
                 "mediawiki/related-articles": "1.39.0",
                 "mediawiki/sandbox-link": "1.39.0",
                 "mediawiki/semantic-drilldown": "1.39.0",
