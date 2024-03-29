@@ -19,7 +19,7 @@
                 "mediawiki/oauth": "1.39.0",
                 "mediawiki/pageviewinfo": "1.39.0",
                 "mediawiki/popups": "1.39.0",
-                "mediawiki/quickinstantcommons": "dev-REL1_39",
+                "mediawiki/quickinstantcommons": "1.39.0",
                 "mediawiki/related-articles": "1.39.0",
                 "mediawiki/sandbox-link": "1.39.0",
                 "mediawiki/semantic-drilldown": "1.39.0",
@@ -616,7 +616,7 @@
                         "package": {
                                 "name": "mediawiki/quickinstantcommons",
                                 "type": "mediawiki-extension",
-                                "version": "REL1_39",
+                                "version": "1.39.0"
                                 "dist": {
                                         "url": "https://github.com/wikimedia/mediawiki-extensions-QuickInstantCommons/archive/refs/heads/REL1_39.zip",
                                         "type": "zip"
