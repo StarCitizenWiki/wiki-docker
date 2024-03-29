@@ -616,7 +616,7 @@
                         "package": {
                                 "name": "mediawiki/quickinstantcommons",
                                 "type": "mediawiki-extension",
-                                "version": "1.39.0"
+                                "version": "1.39.0",
                                 "dist": {
                                         "url": "https://github.com/wikimedia/mediawiki-extensions-QuickInstantCommons/archive/refs/heads/REL1_39.zip",
                                         "type": "zip"
