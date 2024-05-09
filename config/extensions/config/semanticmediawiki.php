@@ -18,8 +18,10 @@ $smwgNamespacesWithSemanticLinks[NS_TEMPLATE] = true;
 $smwgNamespacesWithSemanticLinks[NS_UPDATE] = true;
 $smwgNamespacesWithSemanticLinks[828] = true;
 
-$smwgQMaxInlineLimit = 2500;
+# Set unknown attributes to text
+$smwgPDefaultType = '_txt';
 
+$smwgQMaxInlineLimit = 2500;
 # Experimental Caching
 $smwgMainCacheType = 'redis';
 $smwgQueryResultCacheType = 'redis';

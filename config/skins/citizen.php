@@ -8,6 +8,9 @@ $wgCitizenSearchDescriptionSource = 'pagedescription';
 
 $wgCitizenMaxSearchResults = 10;
 
+# Default to dark theme
+$wgCitizenThemeDefault = 'dark';
+
 # Add links to footer
 $wgHooks['SkinAddFooterLinks'][] = static function ( $sk, $key, &$footerlinks ) {
     $rel = 'nofollow noreferrer noopener';
