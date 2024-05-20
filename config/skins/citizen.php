@@ -1,6 +1,6 @@
 <?php
 
-$wgCitizenGlobalToolsPortlet = 'p-Meta';
+$wgCitizenGlobalToolsPortlet = 'p-Navigation';
 $wgCitizenEnableCollapsibleSections = true;
 
 $wgCitizenSearchGateway = 'mwActionApi';
