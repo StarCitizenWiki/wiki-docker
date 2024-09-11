@@ -38,7 +38,7 @@
                 "mediawiki/semantic-media-wiki": "dev-master",
                 "mediawiki/semantic-extra-special-properties": "~3.0",
                 "mediawiki/semantic-result-formats": "dev-master",
-                "mediawiki/semantic-scribunto": "~2.2.0",
+                "mediawiki/semantic-scribunto": "~2.3.2",
                 "mediawiki/universal-language-selector": "2023.12",
 
                 "edwardspec/mediawiki-aws-s3": "v0.13.0",
