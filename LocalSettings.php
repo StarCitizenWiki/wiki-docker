@@ -272,11 +272,11 @@ $wgCSPHeader = [
     'unsafeFallback' => false,
     'script-src' => [
         "'self'",
-        'https://analytics.star-citizen.wiki'
+        'https://analytics.octofox.de'
     ],
     'default-src' => [
         "'self'",
-        'https://analytics.star-citizen.wiki'
+        'https://analytics.octofox.de'
     ],
     'style-src' => [ "'self'" ],
     'object-src' => [ "'none'" ],

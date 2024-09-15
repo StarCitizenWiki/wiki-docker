@@ -14,4 +14,5 @@ $wgAWSRepoHashLevels = '2';
 $wgAWSRepoDeletedHashLevels = '3';
 
 $wgFileBackends['s3']['endpoint'] = getenv( 'EXT_AWS_ENDPOINT' );
+$wgFileBackends['s3']['use_path_style_endpoint'] = true;
 $wgAWSRegion = getenv( 'EXT_AWS_REGION' );
