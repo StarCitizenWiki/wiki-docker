@@ -1,6 +1,6 @@
 <?php
 
-$wgPlausibleDomain = 'https://analytics.star-citizen.wiki';
+$wgPlausibleDomain = 'https://analytics.octofox.de';
 $wgPlausibleDomainKey = 'star-citizen.wiki';
 $wgPlausibleApiKey = getenv( 'EXT_PLAUSIBLE_KEY' );
 
