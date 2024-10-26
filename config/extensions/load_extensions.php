@@ -40,7 +40,6 @@ wfLoadExtension( 'RelatedArticles' );
 wfLoadExtension( 'SandboxLink' );
 wfLoadExtension( 'Scribunto' );
 wfLoadExtension( 'ShortDescription' );
-wfLoadExtension( 'SymfonyMailer' );
 wfLoadExtension( 'SyntaxHighlight_GeSHi' );
 wfLoadExtension( 'TabberNeue' );
 wfLoadExtension( 'TemplateData' );

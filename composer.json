@@ -24,7 +24,6 @@
                 "mediawiki/sandbox-link": "1.39.0",
                 "mediawiki/semantic-drilldown": "1.39.0",
                 "mediawiki/short-description": "1.39.0",
-                "mediawiki/symfony-mailer": "1.39.0",
                 "mediawiki/tabber-neue": "1.39.0",
                 "mediawiki/template-styles": "1.39.0",
                 "mediawiki/thanks": "1.39.0",
@@ -60,7 +59,6 @@
                                 "extensions/Elastica/composer.json",
                                 "extensions/Oauth/composer.json",
                                 "extensions/OATHAuth/composer.json",
-                                "extensions/SymfonyMailer/composer.json",
                                 "extensions/TemplateStyles/composer.json",
                                 "extensions/Webauthn/composer.json"
                         ]
@@ -420,23 +418,6 @@
                                 "source": {
                                         "type": "git",
                                         "url": "https://github.com/wikimedia/mediawiki-extensions-SandboxLink.git",
-                                        "reference": "REL1_39"
-                                }
-                        }
-                },
-                {
-                        "type": "package",
-                        "package": {
-                                "name": "mediawiki/symfony-mailer",
-                                "type": "mediawiki-extension",
-                                "version": "1.39.0",
-                                "dist": {
-                                        "url": "https://github.com/StarCitizenWiki/mediawiki-extensions-SymfonyMailer/archive/master.zip",
-                                        "type": "zip"
-                                },
-                                "source": {
-                                        "type": "git",
-                                        "url": "https://github.com/StarCitizenWiki/mediawiki-extensions-SymfonyMailer.git",
                                         "reference": "REL1_39"
                                 }
                         }

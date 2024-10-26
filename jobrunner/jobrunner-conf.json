@@ -1,7 +1,7 @@
 {
   "groups": {
     "basic": {
-      "runners": 1,
+      "runners": 2,
       "include": [
         "*"
       ],
